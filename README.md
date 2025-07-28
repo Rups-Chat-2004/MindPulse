@@ -43,7 +43,7 @@ Filter Example
 
 ![Filter Example](https://github.com/user-attachments/assets/a71474c6-56b0-44a3-a955-894b5324fbd0)
 
-Work Interference Chart
+Work Interference Chart;
 
 
 ![Work Interference Chart](https://github.com/user-attachments/assets/94ba2b0d-436d-43b9-95a6-945bc7479c8f)
